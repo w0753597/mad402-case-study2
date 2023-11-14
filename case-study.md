@@ -1,9 +1,13 @@
 # Case Study - UX/UI for SPENDR
+
 ## Introduction
 SPENDR aims to revolutionize personal finance management by providing users with a seamless and intuitive experience. This case study explores key considerations for the UI and UX design, emphasizing research, analysis, and inspiration from existing financial apps.
+
 ##Target Audience
 The target audience for SPENDR includes individuals seeking an efficient tool to manage their finances, ranging from young professionals to families and retirees. The ideal user is someone who values simplicity, security, and personalized financial insights.
+
 ##Research and Analysis
+
 ###Existing Apps Inspiration
 1. Mint
 Features/Conventions:
