@@ -23,107 +23,108 @@ PayPal facilitates secure money transactions, including sending and receiving fu
 PayPal maintains a professional and straightforward aesthetic in its app design. The emphasis is often on functionality and usability, with a clean interface that aligns with the brand's identity. Overall the app leans towards simplicity, ensuring that users can easily navigate and conduct financial transactions. It features a clean and user-friendly layout, and the color scheme aligns with the brand's identity, often incorporating shades of blue. Fonts are chosen with readability in mind, contributing to a seamless and accessible user experience.
 
 ## Common Patterns
-### Minimalistic Design
+#### Minimalistic Design
 Financial apps, like PayPal, often favor minimalism, focusing on essential information and removing unnecessary elements. This clean design enhances user experience, allowing quick access to crucial financial details.
-### Visual Representation with Charts
+#### Visual Representation with Charts
 Graphical elements such as charts and graphs are common in financial apps. They provide users with a visual snapshot of their financial status, aiding in the interpretation of transaction history, budget trends, and investment performance.
-### Multi-Layered Security
+#### Multi-Layered Security
 Security is paramount in financial apps. Common patterns include multi-layered security features like encryption and two-factor authentication. PayPal prioritizes these measures to ensure robust protection for user data and transactions, building trust and confidence.
 
 ## Design Principles for SPENDR
-### Consistency in Color Scheme, Typography, and Iconography
+#### Consistency in Color Scheme, Typography, and Iconography
 Maintain a consistent color scheme throughout the app, using colors that align with the brand and create a visually cohesive experience. Consistency in typography ensures readability, and using a uniform set of icons contributes to a coherent design language. This fosters a sense of familiarity and predictability for users, enhancing overall usability.
-### Clean Interface Focused on Simplicity
+#### Clean Interface Focused on Simplicity
 Prioritize a clean and uncluttered interface, presenting only essential information and features. Avoid unnecessary design elements or features that may overwhelm users. Streamline the user journey, making it intuitive and straightforward. A simple design promotes ease of navigation and reduces cognitive load, contributing to a more enjoyable and efficient user experience.
-### Informative and Timely Responses
+#### Informative and Timely Responses
 Implement clear and timely feedback mechanisms to inform users about the status of their actions. Whether it's a successful transaction, an error, or a loading process, providing users with informative feedback enhances the overall user experience. Users should feel in control and informed throughout their interactions with the app.
 
 ## Considerations on Screens
 Here are the preliminary screens that I am currently contemplating for the initial design phase of the app.
 
-### Welcome/Onboarding Screen:
+#### Welcome/Onboarding Screen:
 Introduce users to key features and benefits of the app.
 Display a brief walkthrough or tutorial on how to navigate the app.
-### Dashboard
+
+#### Dashboard
 Show consolidated financial data, including total account balances.
 Display visual representations such as charts or graphs for income, expenses, and budget progress.
 Provide quick access to key features like transactions, budgeting, and accounts.
 
-### Accounts Overview
+#### Accounts Overview
 Show individual account balances, including checking, savings, investments, and credit cards.
 Display recent transactions for each account.
 Include options to view transaction history and perform account-specific actions.
 
-### Transactions
+#### Transactions
 Present a detailed transaction history with information on debits, credits, purchases, and refunds.
 Allow users to filter transactions by date, category, and source.
 Include options to add manual transactions if needed.
 
-### Paying Bills
+#### Paying Bills
 List upcoming bills with due dates and amounts.
 Provide an interface to pay bills directly within the app.
 Include a history of paid bills.
 
-### Transfers
+#### Transfers
 Allow users to transfer money between accounts seamlessly.
 Display options for one-time and recurring transfers.
 Show transaction confirmations and history.
 
-### Investments Overview
+#### Investments Overview
 Display a summary of the user's investment portfolio.
 Show individual holdings, performance, and market trends.
 Provide options to buy or sell investments.
 
-### Send/Receive Money
+#### Send/Receive Money
 Enable users to send and receive money to/from contacts.
 Display transaction history for money transfers.
 Include options for adding new contacts.
 
-### Budgeting
+#### Budgeting
 Show progress against budget goals for various categories.
 Display a breakdown of spending in each category.
 Allow users to set, modify, and track budgets.
 
-### Mortgage Details
+#### Mortgage Details
 Display current mortgage balance, interest rate, and projected data.
 Provide options to view payment history and details.
 
-### Credit Cards
+#### Credit Cards
 Show credit card balances, available credit, and recent transactions.
 Display due dates and minimum payment information.
 Provide options to pay credit card bills.
 
-### Debts Overview
+#### Debts Overview
 Present a summary of outstanding debts, including types and amounts.
 Show interest rates and repayment options.
 Provide a debt reduction calculator.
 
-### Net Worth
+#### Net Worth
 Calculate and display the user's net worth.
 Show a breakdown of assets and liabilities.
 Visualize net worth trends over time.
 
-### Goals and Planning
+#### Goals and Planning
 Allow users to set financial goals.
 Display progress and suggest actions to achieve goals.
 Provide options to modify or add new goals.
 
-### AI-Powered Suggestions:
+#### AI-Powered Suggestions:
 Present personalized suggestions based on spending patterns.
 Display relevant offers or financial tips.
 Allow users to act on suggestions.
 
-### Settings
+#### Settings
 Provide options to customize app preferences.
 Include security settings and notification preferences.
 Allow users to link or unlink accounts.
 
-### Help and Support
+#### Help and Support
 Offer FAQs and self-help resources.
 Provide customer support contact options.
 Include a feedback or support form.
 
-### Notifications
+#### Notifications
 Allow users to manage and customize notification preferences.
 Display a history of past notifications.
 
