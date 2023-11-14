@@ -15,20 +15,16 @@ Mint is a personal finance management app that provides users with a clear and v
 ##### Screenshots
 <img src="/images/mt1.webp" width="100"/><img src="/images/mt2.webp" width="100"/><img src="/images/mt3.webp" width="100"/><img src="/images/mt4.webp" width="100"/><img src="/images/mt5.webp" width="100"/><img src="/images/mt6.webp" width="100"/><img src="/images/mt7.webp" width="100"/><img src="/images/mt8.webp" width="100"/>
 ##### UI features
-Clear visualization of income, expenses, and budgeting.
-Intuitive transaction categorization.
-Alerts for upcoming bills and unusual spending patterns.
+Mint's UI excels in presenting financial data with clarity, utilizing an intuitive layout that simplifies information consumption. The color scheme is typically clean and visually appealing, contributing to a user-friendly experience. Fonts are chosen for readability, ensuring a seamless interaction. The overall design prioritizes a balance between aesthetic appeal and functional efficiency, enhancing the user's ability to navigate and comprehend financial information effortlessly.
 #### PayPal
 ##### Description
+PayPal facilitates secure money transactions, including sending and receiving funds, requesting money, and discovering cashback offers. Users can track orders, manage their accounts, and benefit from security measures such as encryption and fraud protection. The app also integrates with Gmail for package tracking and provides real-time alerts and notifications.
 ##### Screenshots
+<img src="/images/pp11.webp" width="100"/><img src="/images/pp2.webp" width="100"/><img src="/images/pp3.webp" width="100"/><img src="/images/pp4.webp" width="100"/><img src="/images/pp5.webp" width="100"/><img src="/images/pp6.webp" width="100"/><img src="/images/pp7.webp" width="100"/><img src="/images/pp8.webp" width="100"/>
 ##### UI features
-Seamless money transfers.
-Transaction history with detailed information.
-Two-factor authentication for enhanced security.
-Thoughts on Existing Conventions
+PayPal maintains a professional and straightforward aesthetic in its app design. The emphasis is often on functionality and usability, with a clean interface that aligns with the brand's identity. Overall the app leans towards simplicity, ensuring that users can easily navigate and conduct financial transactions. It features a clean and user-friendly layout, and the color scheme aligns with the brand's identity, often incorporating shades of blue. Fonts are chosen with readability in mind, contributing to a seamless and accessible user experience.
 
 ###Common Patterns:
-
 ####Minimalistic design with a focus on essential information.
 Visual representation of financial data through charts and graphs.
 Multi-layered security features for user protection.
