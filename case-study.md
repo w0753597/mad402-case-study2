@@ -20,15 +20,18 @@ Mint's UI excels in presenting financial data with clarity, utilizing an intuiti
 ##### Description
 PayPal facilitates secure money transactions, including sending and receiving funds, requesting money, and discovering cashback offers. Users can track orders, manage their accounts, and benefit from security measures such as encryption and fraud protection. The app also integrates with Gmail for package tracking and provides real-time alerts and notifications.
 ##### Screenshots
-<img src="/images/pp11.webp" width="100"/><img src="/images/pp2.webp" width="100"/><img src="/images/pp3.webp" width="100"/><img src="/images/pp4.webp" width="100"/><img src="/images/pp5.webp" width="100"/><img src="/images/pp6.webp" width="100"/><img src="/images/pp7.webp" width="100"/><img src="/images/pp8.webp" width="100"/>
+<img src="/images/pp1.webp" width="100"/><img src="/images/pp2.webp" width="100"/><img src="/images/pp3.webp" width="100"/><img src="/images/pp4.webp" width="100"/><img src="/images/pp5.webp" width="100"/><img src="/images/pp6.webp" width="100"/><img src="/images/pp7.webp" width="100"/><img src="/images/pp8.webp" width="100"/>
 ##### UI features
 PayPal maintains a professional and straightforward aesthetic in its app design. The emphasis is often on functionality and usability, with a clean interface that aligns with the brand's identity. Overall the app leans towards simplicity, ensuring that users can easily navigate and conduct financial transactions. It features a clean and user-friendly layout, and the color scheme aligns with the brand's identity, often incorporating shades of blue. Fonts are chosen with readability in mind, contributing to a seamless and accessible user experience.
 
-###Common Patterns:
-####Minimalistic design with a focus on essential information.
-Visual representation of financial data through charts and graphs.
-Multi-layered security features for user protection.
-Innovative Opportunity:
+### Common Patterns
+#### Minimalistic Design
+Financial apps, like PayPal, often favor minimalism, focusing on essential information and removing unnecessary elements. This clean design enhances user experience, allowing quick access to crucial financial details.
+#### Visual Representation with Charts
+Graphical elements such as charts and graphs are common in financial apps. They provide users with a visual snapshot of their financial status, aiding in the interpretation of transaction history, budget trends, and investment performance.
+#### Multi-Layered Security
+Security is paramount in financial apps. Common patterns include multi-layered security features like encryption and two-factor authentication. PayPal prioritizes these measures to ensure robust protection for user data and transactions, building trust and confidence.
+
 
 ####Integration of AI for personalized financial recommendations.
 Enhanced customization options for user preferences.
