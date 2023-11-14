@@ -46,10 +46,21 @@ Display a brief walkthrough or tutorial on how to navigate the app.
 Show consolidated financial data, including total account balances.
 Display visual representations such as charts or graphs for income, expenses, and budget progress.
 Provide quick access to key features like transactions, budgeting, and accounts.
+Data Entities
+* User: UserID, Username, Email
+* Account: AccountID, Type, Balance
+* Transaction: TransactionID, Type, Amount, Date
+* Budget: BudgetID, Category, Limit, CurrentSpending
+
 ### Accounts Overview
 Show individual account balances, including checking, savings, investments, and credit cards.
 Display recent transactions for each account.
 Include options to view transaction history and perform account-specific actions.
+Entities:
+* User: UserID, Username, Email
+* Account: AccountID, Type, Balance
+* Transaction: TransactionID, Type, Amount, Date
+
 ### Transactions
 Present a detailed transaction history with information on debits, credits, purchases, and refunds.
 Allow users to filter transactions by date, category, and source.
