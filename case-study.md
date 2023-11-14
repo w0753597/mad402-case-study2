@@ -13,11 +13,9 @@ The target audience for SPENDR includes individuals seeking an efficient tool to
 ##### Description
 Mint is a personal finance management app that provides users with a clear and visual overview of their financial health. It offers features such as budgeting, expense tracking, and goal setting. Mint categorizes transactions, provides insights into spending patterns, and alerts users about upcoming bills. The app aims to simplify financial management by offering a comprehensive view of income, expenses, and budgets in one place.
 ##### Screenshots
-![mt1](/images/mt1.webp)
-![mt2](/images/mt2.webp)
-![mt3](/images/mt3.webp)
-![mt4](/images/mt4.webp)
-![mt5](/images/mt5.webp)
+<img src="/images/mt1.webp" alt="mt1" width="100" />
+<img src="/images/mt2.webp" alt="mt2" width="100" />
+<img src="/images/mt3.webp" alt="mt3" width="100" />
 ##### UI features
 Clear visualization of income, expenses, and budgeting.
 Intuitive transaction categorization.
