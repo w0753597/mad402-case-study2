@@ -6,33 +6,39 @@ SPENDR aims to revolutionize personal finance management by providing users with
 ## Target Audience
 The target audience for SPENDR includes individuals seeking an efficient tool to manage their finances, ranging from young professionals to families and retirees. The ideal user is someone who values simplicity, security, and personalized financial insights.
 
-## Research and Analysis
-
-### Existing Apps Inspiration
-#### Mint
-##### Description
+## Study of Existing Apps
+### Mint
+#### Description
 Mint is a personal finance management app that provides users with a clear and visual overview of their financial health. It offers features such as budgeting, expense tracking, and goal setting. Mint categorizes transactions, provides insights into spending patterns, and alerts users about upcoming bills. The app aims to simplify financial management by offering a comprehensive view of income, expenses, and budgets in one place.
-##### Screenshots
+#### Screenshots
 <img src="/images/mt1.webp" width="100"/><img src="/images/mt2.webp" width="100"/><img src="/images/mt3.webp" width="100"/><img src="/images/mt4.webp" width="100"/><img src="/images/mt5.webp" width="100"/><img src="/images/mt6.webp" width="100"/><img src="/images/mt7.webp" width="100"/><img src="/images/mt8.webp" width="100"/>
-##### UI features
+#### UI features
 Mint's UI excels in presenting financial data with clarity, utilizing an intuitive layout that simplifies information consumption. The color scheme is typically clean and visually appealing, contributing to a user-friendly experience. Fonts are chosen for readability, ensuring a seamless interaction. The overall design prioritizes a balance between aesthetic appeal and functional efficiency, enhancing the user's ability to navigate and comprehend financial information effortlessly.
-#### PayPal
-##### Description
+### PayPal
+#### Description
 PayPal facilitates secure money transactions, including sending and receiving funds, requesting money, and discovering cashback offers. Users can track orders, manage their accounts, and benefit from security measures such as encryption and fraud protection. The app also integrates with Gmail for package tracking and provides real-time alerts and notifications.
-##### Screenshots
+#### Screenshots
 <img src="/images/pp1.webp" width="100"/><img src="/images/pp2.webp" width="100"/><img src="/images/pp3.webp" width="100"/><img src="/images/pp4.webp" width="100"/><img src="/images/pp5.webp" width="100"/><img src="/images/pp6.webp" width="100"/><img src="/images/pp7.webp" width="100"/><img src="/images/pp8.webp" width="100"/>
-##### UI features
+#### UI features
 PayPal maintains a professional and straightforward aesthetic in its app design. The emphasis is often on functionality and usability, with a clean interface that aligns with the brand's identity. Overall the app leans towards simplicity, ensuring that users can easily navigate and conduct financial transactions. It features a clean and user-friendly layout, and the color scheme aligns with the brand's identity, often incorporating shades of blue. Fonts are chosen with readability in mind, contributing to a seamless and accessible user experience.
 
-### Common Patterns
-#### Minimalistic Design
+## Common Patterns
+### Minimalistic Design
 Financial apps, like PayPal, often favor minimalism, focusing on essential information and removing unnecessary elements. This clean design enhances user experience, allowing quick access to crucial financial details.
-#### Visual Representation with Charts
+### Visual Representation with Charts
 Graphical elements such as charts and graphs are common in financial apps. They provide users with a visual snapshot of their financial status, aiding in the interpretation of transaction history, budget trends, and investment performance.
-#### Multi-Layered Security
+### Multi-Layered Security
 Security is paramount in financial apps. Common patterns include multi-layered security features like encryption and two-factor authentication. PayPal prioritizes these measures to ensure robust protection for user data and transactions, building trust and confidence.
 
+## Design Principles for SPENDR
+### Consistency in Color Scheme, Typography, and Iconography
+Maintain a consistent color scheme throughout the app, using colors that align with the brand and create a visually cohesive experience. Consistency in typography ensures readability, and using a uniform set of icons contributes to a coherent design language. This fosters a sense of familiarity and predictability for users, enhancing overall usability.
+### Clean Interface Focused on Simplicity
+Prioritize a clean and uncluttered interface, presenting only essential information and features. Avoid unnecessary design elements or features that may overwhelm users. Streamline the user journey, making it intuitive and straightforward. A simple design promotes ease of navigation and reduces cognitive load, contributing to a more enjoyable and efficient user experience.
+### Informative and Timely Responses
+Implement clear and timely feedback mechanisms to inform users about the status of their actions. Whether it's a successful transaction, an error, or a loading process, providing users with informative feedback enhances the overall user experience. Users should feel in control and informed throughout their interactions with the app.
 
+##
 ####Integration of AI for personalized financial recommendations.
 Enhanced customization options for user preferences.
 Wireframing Considerations
