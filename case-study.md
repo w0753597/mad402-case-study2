@@ -9,11 +9,18 @@ The target audience for SPENDR includes individuals seeking an efficient tool to
 ## Research and Analysis
 
 ### Existing Apps Inspiration
-1. Mint
+#### Mint
+##### Description
+Mint is a personal finance management app that provides users with a clear and visual overview of their financial health. It offers features such as budgeting, expense tracking, and goal setting. Mint categorizes transactions, provides insights into spending patterns, and alerts users about upcoming bills. The app aims to simplify financial management by offering a comprehensive view of income, expenses, and budgets in one place.
+##### Screenshots
+##### UI features
 Clear visualization of income, expenses, and budgeting.
 Intuitive transaction categorization.
 Alerts for upcoming bills and unusual spending patterns.
-2. PayPal
+#### PayPal
+##### Description
+##### Screenshots
+##### UI features
 Seamless money transfers.
 Transaction history with detailed information.
 Two-factor authentication for enhanced security.
